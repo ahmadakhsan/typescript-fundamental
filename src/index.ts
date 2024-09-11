@@ -110,8 +110,6 @@ function Perempuan (perempuan : Perempuan) : void {
 
 }
 
-
-
 console.log({namaSaya});
 console.log({username});
 console.log({isDead});
